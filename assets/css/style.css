@@ -3791,10 +3791,10 @@ input[type=number]::-webkit-outer-spin-button {
         bottom: 0;
         top: auto;
         transform: translateY(0);
-        background-color: #ec2b08;
+        background-color: #ff4423;
         text-align: center;
         width: 100%;
-        border: 1px solid #ec2b08;
+        border: 1px solid #ff4423;
     }
     #mobile-bottom-fixed .col-xs-4 {
         padding: 0;
