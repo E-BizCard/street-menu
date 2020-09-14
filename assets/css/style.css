@@ -2314,7 +2314,7 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 .box {
     display: inline-block;
     width: 75%;
-    background-color: #46B849;
+    background-color: #ba7d35;
     margin-left: 13.5%;
     border-radius: 10px;
     padding-block-start: 15px;
@@ -3791,10 +3791,10 @@ input[type=number]::-webkit-outer-spin-button {
         bottom: 0;
         top: auto;
         transform: translateY(0);
-        background-color: #ff4423;
+        background-color: #a08738;
         text-align: center;
         width: 100%;
-        border: 1px solid #ff4423;
+        border: 1px solid #a08738
     }
     #mobile-bottom-fixed .col-xs-4 {
         padding: 0;
